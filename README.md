@@ -14,6 +14,7 @@
 
 ![WhyViral AI Home](assets/home.png)
 
+![WhyViral AI Home1](assets/home1.png)
 ---
 
 ## 🖥️ Video Demo
