@@ -10,6 +10,17 @@
 
 ---
 
+## 🖥️ Video Demo
+
+🎬 **Live Demo Video (MANDATORY)**
+👉 (https://drive.google.com/file/d/1sg7uCLqF5dq-UHX8Oc35gSD4aN09loay/view?usp=sharing)
+
+## 🖥️ Deployed Link
+🎬 **Live Deployed Link (MANDATORY)**
+👉 (https://whyviralai.streamlit.app/)
+
+---
+
 ## 🎯 Problem
 
 In the creator economy, **attention is everything** — but:
@@ -67,10 +78,14 @@ E --> F[Final Output: Clips + Intelligence]
 
 ---
 
-## 🖥️ Demo
+## 🖥️ Video Demo
 
 🎬 **Live Demo Video (MANDATORY)**
 👉 (https://drive.google.com/file/d/1sg7uCLqF5dq-UHX8Oc35gSD4aN09loay/view?usp=sharing)
+
+## 🖥️ Deployed Link
+
+👉 (https://whyviralai.streamlit.app/)
 
 ---
 
