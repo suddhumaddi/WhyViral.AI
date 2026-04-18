@@ -70,7 +70,7 @@ E --> F[Final Output: Clips + Intelligence]
 ## 🖥️ Demo
 
 🎬 **Live Demo Video (MANDATORY)**
-👉 *[Add your screen recording video link here]*
+👉 (https://drive.google.com/file/d/1sg7uCLqF5dq-UHX8Oc35gSD4aN09loay/view?usp=sharing)
 
 ---
 
