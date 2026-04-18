@@ -10,6 +10,12 @@
 
 ---
 
+## 📸 Application Preview
+
+![WhyViral AI Home](assets/home.png)
+
+---
+
 ## 🖥️ Video Demo
 
 🎬 **Live Demo Video (MANDATORY)**
