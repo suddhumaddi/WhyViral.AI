@@ -78,17 +78,6 @@ E --> F[Final Output: Clips + Intelligence]
 
 ---
 
-## 🖥️ Video Demo
-
-🎬 **Live Demo Video (MANDATORY)**
-👉 (https://drive.google.com/file/d/1sg7uCLqF5dq-UHX8Oc35gSD4aN09loay/view?usp=sharing)
-
-## 🖥️ Deployed Link
-
-👉 (https://whyviralai.streamlit.app/)
-
----
-
 ## 📸 Sample Output
 
 ```text
@@ -216,7 +205,6 @@ Aligned with:
 ## 👨‍💻 Team
 
 * Sudarshan Maddi
-  *(Add teammates if any)*
 
 ---
 
