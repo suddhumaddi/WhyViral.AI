@@ -17,11 +17,6 @@
 ![WhyViral AI Home1](assets/home1.png)
 ---
 
-## 🖥️ Video Demo
-
-🎬 **Live Demo Video (MANDATORY)**
-👉 https://drive.google.com/file/d/1sg7uCLqF5dq-UHX8Oc35gSD4aN09loay/view?usp=sharing
-
 ## 🖥️ Deployed Link
 
 🎬 **Live Deployed Link (MANDATORY)**
